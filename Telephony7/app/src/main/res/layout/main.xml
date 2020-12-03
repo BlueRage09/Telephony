@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#9DF398"
+	android:padding="20dp"
+	android:orientation="vertical"
+	android:layout_gravity="center"
+	tools:context=".MainActivity">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Mama"
+		android:textSize="20sp"
+		android:layout_marginTop="35dp"
+		android:layout_marginLeft="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="09300237991"
+		android:textSize="10sp"
+		android:layout_marginTop="62dp"
+		android:layout_marginLeft="10dp"/>
+
+	<Button
+		android:id="@+id/button1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="35dp"
+		android:layout_marginLeft="140dp"
+		android:text="SMS"/>
+
+	<Button
+		android:onClick="call1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="35dp"
+		android:layout_marginLeft="250dp"
+		android:text="Call"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Papa"
+		android:textSize="20sp"
+		android:layout_marginTop="125dp"
+		android:layout_marginLeft="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="09773916989"
+		android:textSize="10sp"
+		android:layout_marginTop="152dp"
+		android:layout_marginLeft="10dp"/>
+
+	<Button
+		android:id="@+id/button2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="125dp"
+		android:layout_marginLeft="140dp"
+		android:text="SMS"/>
+
+	<Button
+		android:onClick="call2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="125dp"
+		android:layout_marginLeft="250dp"
+		android:text="Call"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Lorie"
+		android:textSize="20sp"
+		android:layout_marginTop="220dp"
+		android:layout_marginLeft="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="09269071430"
+		android:textSize="10sp"
+		android:layout_marginTop="247dp"
+		android:layout_marginLeft="10dp"/>
+
+	<Button
+		android:id="@+id/button3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="215dp"
+		android:layout_marginLeft="140dp"
+		android:text="SMS"/>
+
+	<Button
+		android:onClick="call3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="215dp"
+		android:layout_marginLeft="250dp"
+		android:text="Call"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Reeze"
+		android:textSize="20sp"
+		android:layout_marginTop="315dp"
+		android:layout_marginLeft="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="09217075650"
+		android:textSize="10sp"
+		android:layout_marginTop="342dp"
+		android:layout_marginLeft="10dp"/>
+
+	<Button
+		android:id="@+id/button4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="315dp"
+		android:layout_marginLeft="140dp"
+		android:text="SMS"/>
+
+	<Button
+		android:onClick="call4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="315dp"
+		android:layout_marginLeft="250dp"
+		android:text="Call"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Sean"
+		android:textSize="20sp"
+		android:layout_marginTop="410dp"
+		android:layout_marginLeft="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="09957619626"
+		android:textSize="10sp"
+		android:layout_marginTop="437dp"
+		android:layout_marginLeft="10dp"/>
+
+	<Button
+		android:id="@+id/button5"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="405dp"
+		android:layout_marginLeft="140dp"
+		android:text="SMS"/>
+
+	<Button
+		android:onClick="call5"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="405dp"
+		android:layout_marginLeft="250dp"
+		android:text="Call"/>
+
+</RelativeLayout>
+
